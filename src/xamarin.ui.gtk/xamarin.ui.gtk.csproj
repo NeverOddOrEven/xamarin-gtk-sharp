@@ -1,6 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>net471</TargetFramework>
+    <TargetFramework>net47</TargetFramework>
     <ApplicationIcon />
     <OutputType>WinExe</OutputType>
     <StartupObject />
@@ -49,7 +49,7 @@
     <Folder Include="Properties\" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Xamarin.Forms" Version="3.3.0.967583" />
-    <PackageReference Include="Xamarin.Forms.Platform.GTK" Version="3.3.0.967583" />
+    <PackageReference Include="Xamarin.Forms" Version="3.0.0.446417" />
+    <PackageReference Include="Xamarin.Forms.Platform.GTK" Version="3.0.0.446417" />
   </ItemGroup>
 </Project>
