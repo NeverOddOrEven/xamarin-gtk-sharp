@@ -13,6 +13,8 @@ Coming soon...
 3. Set `xamarin.ui.gtk` as the start-up project
 4. Run the program
 
+This setup works with .NET v4.7.1 and Xamarin Forms v3.3.0.967583. At a minimum, you must have .NET v4.7 and Xamarin Forms v3.0.0.446417. Details on Linux, TBD...
+
 # License
 
 [The Unlicense](./LICENSE)
