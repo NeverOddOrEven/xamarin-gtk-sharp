@@ -4,8 +4,8 @@
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
     <ProjectGuid>{297D2854-52B6-4793-82B1-AE021F9C79B0}</ProjectGuid>
-    <RootNamespace>xamarin_rtsp_poc</RootNamespace>
-    <AssemblyName>xamarin_rtsp_poc</AssemblyName>
+    <RootNamespace>xamarin_rtsp_poc.gtk</RootNamespace>
+    <AssemblyName>xamarin_rtsp_poc.gtk</AssemblyName>
     <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
