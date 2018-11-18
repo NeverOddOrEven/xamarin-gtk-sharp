@@ -4,7 +4,7 @@ I found it surprisingly cheeky to configure a Xamarin Forms project, for a deskt
 
 ## Was this repo helpful? Leave a star!
 
-Feel free to take this code and use it how you see fit. It is [unlicensed](#license)! Leaving a star tells me it was useful to you!
+Feel free to take this code and use it how you see fit. It is [unlicensed](#license)! Leaving a star tells me it was useful to you.
 
 ## Building on Linux
 
@@ -32,7 +32,7 @@ This setup works with .NET v4.7 and Xamarin Forms v3.3.0.967583 on Windows 10, w
 
 ## Contributing
 
-I accept pull requests. Please read the license details before you contribute.
+I accept pull requests, just be aware of the permissive nature of the license.
 
 # License
 
