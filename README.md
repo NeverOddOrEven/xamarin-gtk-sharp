@@ -1,6 +1,10 @@
 # Xamarin GTK#
 
-I want to document the minimal app setup necessary to get Xamarin working on Linux and Windows. The process was surprisingly cheeky, so my hope is to help others by sharing my work here.
+I found it surprisingly cheeky to configure a Xamarin Forms project, for a desktop application, that compiles and runs on both Windows and Linux. I hope my efforts are helpful to you.
+
+## Was this repo helpful? Leave a star!
+
+Feel free to take this code and use it how you see fit. It is [unlicensed](#license)! Leaving a star tells me it was useful to you!
 
 ## Building on Linux
 
@@ -25,6 +29,10 @@ I am running on Windows 10 Pro with Visual Studio Code 2017 CE.
 4. Build & Run the program.
 
 This setup works with .NET v4.7 and Xamarin Forms v3.3.0.967583 on Windows 10, with Visual Studio 2017. I also used `Visual Studio Code` on Windows, as it is really nice to be able to manipulate the project files directly.
+
+## Contributing
+
+I accept pull requests. Please read the license details before you contribute.
 
 # License
 
